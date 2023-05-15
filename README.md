@@ -29,7 +29,7 @@ however, a re-prompt will occur if the user inputs any other character.
 Once the user has entered an appropiate character, the program will finish executing,
 resulting in a generated PDF file containing different math problems for the user to solve.
 
-Contents of the project:
+## Contents of the project:
 
 **Math PDF** is comprised of four different files:
 
@@ -41,11 +41,11 @@ Contents of the project:
 
 `README.md` -> Provides an overview of the project.
 
-Generated files: 
+## Generated files: 
 
 **Math PDF** outputs a PDF file named `output.pdf` and can optionally generate two cache directories that can be ignored when `test_main.py` is executed via `pytest test_main.py`
 
-Design choices:
+## Design choices:
 
 **The following section discusses the implementation of the project and it does not contain any relevant information about the usage of the program.**
 
